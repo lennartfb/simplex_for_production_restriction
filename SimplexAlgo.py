@@ -1,6 +1,6 @@
 import numpy as np
 import copy
-
+#Example Excercises:
 #Aufgabe
 #db = [200,120]
 #nb = [[4,10,1600],[8,4,2400]]
@@ -17,7 +17,7 @@ nb = [[3,2,1800],[2,4,1600],[0,1,300]]
 #Aufgabe aus controlling überprüfungsaufgaben Nr2
 #db = [20,30,35]
 #nb = [[3,2,4,1800],[2,4,4,1600],[0,1,0,300]]
-
+#END of examples
 
 
 
