@@ -1,7 +1,7 @@
 # simplex_for_production_restriction
 An algorithm for solving an optimizations problem or a productions restriction with more than one restriction
 
-The methos simplex takes an input of the db function to be optimized and the nb functions which are the additional conditions for our problem. The db function is a list of the factors of our contribution margin function wich will be maximized. The nb variable is a List of lists wich each contain the factors of the restrictions.
+The method simplex takes an input of the db function to be optimized and the nb functions which are the additional conditions for our problem. The db function is a list of the factors of our contribution margin function wich will be maximized. The nb variable is a List of lists wich each contain the factors of the restrictions.
 Example:
 DB Function = 20x+30y --> MAX
 NB Function1 ->3x+2y = 1800
